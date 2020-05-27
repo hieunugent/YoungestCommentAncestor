@@ -3,5 +3,6 @@
 - and with or without younger ancestor name. (null or char)
 - write a function which return a youngest common ancestor to the two  descendant
 # solution
-- ![alt text](Untitled Diagram.pdf)
+- ![alt text](https://github.com/hieunugent/YoungestCommentAncestor/blob/master/Untitled%20Diagram.png)
 
+- Time complexity O(D) D is height of tree.
