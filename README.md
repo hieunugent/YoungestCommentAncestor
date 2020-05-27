@@ -3,5 +3,5 @@
 - and with or without younger ancestor name. (null or char)
 - write a function which return a youngest common ancestor to the two  descendant
 # solution
-- 
+- -![alt text](https://github.com/hieunugent/YoungestCommentAncestor/)
 
